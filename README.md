@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oji</h1>
 <h3 align="center">slow learner but diligent 😁</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkiramadhanx&label=Profile%20views&color=0e75b6&style=flat" alt="rizkiramadhanx" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://portofolio-rizkiramadhanx.vercel.app/](https://portofolio-rizkiramadhanx.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
