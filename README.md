@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oji</h1>
-<h3 align="center">final semester student, interested in web development. currently looking for an internship program especially as a backend engineer</h3>
+<h3 align="center">final semester student, interested in web development. currently looking for an internship program especially as a nodeJS Enviroment</h3>
 
 - 👨‍💻 All of my projects are available at [https://rizkiramadhanx.xyz/](https://rizkiramadhanx.xyz/)
 
