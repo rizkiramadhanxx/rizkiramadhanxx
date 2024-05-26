@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizki (Typescript Developer)</h1>
-<h3 align="center">Just Do it</h3>
+<h2 align="center">Just Do it !!!!</h2>
 
 - 👨‍💻 All of my projects are available at [https://rizkiramadhanx.dev/](https://rizkiramadhanx.vercel.app/)
 
