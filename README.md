@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizki </h1>
 
-<h2 align="center">dreams of becoming an Artist/Influencer, But Currently Frontend Developer </h2>
+<h2 align="center">dreams of becoming an Boss, But Currently Frontend Developer </h2>
 
 - 👨‍💻 All of my projects are available at [https://rizkiramadhanx.dev/](https://rizkiramadhanx.vercel.app/)
 
