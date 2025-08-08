@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Frontend Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <a href="https://rizkiramadhanx.dev/" target="_blank">
+  <a href="https://rizkiramadhanx.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/rizkiramadhanx" target="_blank">
@@ -21,7 +21,7 @@
 - 💻 I love crafting clean and interactive UIs using **React & Tailwind CSS**
 - 🌱 Currently learning **Next.js**, **TypeScript**, and exploring full-stack development
 - 📫 Reach me at: **rizkiramdhanx@gmail.com**
-- 🌐 All of my projects are available at [**rizkiramadhanx.dev**](https://rizkiramadhanx.dev/)
+- 🌐 All of my projects are available at [**rizkiramadhanx.dev**](https://rizkiramadhanx.vercel.app/)
 
 ---
 
@@ -47,25 +47,22 @@
 
 ---
 
-### 📈 GitHub Stats
+## 🛑 I Lost My Previous GitHub Account
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizkiramadhanxx&show_icons=true&theme=radical" alt="Rizki's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkiramadhanxx&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
+**📅 Date:** August 8th, 2025  
+**📂 Reason:** I lost access to my previous GitHub account and was unable to recover it.
 
----
+I’ve decided to start fresh with this new account and will continue sharing, contributing, and maintaining my work here.
 
-### 🔗 Let's Connect
+If you previously collaborated with me under another username or are trying to find my older repositories, feel free to reach out:
 
-<p align="left">
-  <a href="https://linkedin.com/in/rizkiramadhanx" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  &nbsp;
-  <a href="https://fb.com/rizkiramadhanx" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="30" />
-  </a>
-</p>
+- 📩 Email: [rizkiramdhanx@gmail.com](mailto:rizkiramdhanx@gmail.com)
+- 💼 Link
+
+
+### 🔒 Screenshot Proof
+
+![Account Lost Proof](./assets/github-lost-proof.png)
+> _Screenshot taken as proof on August 8, 2025._
 
 ---
